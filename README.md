@@ -1,32 +1,42 @@
-# OttoBytes - Portfolio
+# Portafolio de OttoBytes
 
-Welcome to **OttoBytes**, a portfolio showcasing various software development projects, ranging from web and mobile applications to AI and robotics solutions. This repository contains all the relevant code and details for each project.
+## Acerca de Mí
 
-![GitHub](https://img.shields.io/github/license/yourusername/otto-bytes?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/otto-bytes?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/otto-bytes?style=for-the-badge)
+¡Hola! Soy Otto Hernandez, un **Ingeniero de Software** apasionado con experiencia en **desarrollo full-stack**, **arquitectura de software** e integración de APIs. Tengo una amplia experiencia en el desarrollo de **aplicaciones web y móviles**, especialmente en **Flutter**, **C#** y **.NET**. Siempre estoy aprendiendo nuevas tecnologías y mejorando mis prácticas de programación.
 
-## Projects Overview
+- **Ubicación:** Medellin, Colombia
+- **Correo Electrónico:** ottoniek14@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ottoniel-hernandez/
 
-This portfolio highlights the following projects:
+## Proyectos realizados
 
-1. **Web Development Projects**
-   - Description of the web applications developed, including technologies used, frameworks, and functionality.
-   
-2. **Mobile Applications**
-   - Overview of mobile apps created with Flutter and other technologies.
+### Ingeniero en Robótica | **Institución Universitaria Pascual Bravo** | 2019
+- Desarrollé un **dron** para medir **la calidad del aire**, obteniendo un reconocimiento por la innovación.
 
-3. **AI & Robotics**
-   - Projects related to artificial intelligence, robotics, and automation.
+### Desarrollador Web Freelance 
+- Diseñé y desarrollé sitios web usando **WordPress** y soluciones personalizadas para clientes en diversas industrias.
+- Especializado en crear **aplicaciones web interactivas y responsivas**.
 
-4. **Software Architecture and Integration**
-   - Details of software architecture designs and integrations with third-party APIs.
+### Mi portafolio 
+- **Tecnologías Usadas:** NextJS
+- Link: https://ottobytes-hub.vercel.app/
 
-## Technologies Used
+### Aceites del caribe
+- **Tecnologías Usadas:** Wordpress
+- Link: https://aceitesdelcaribe.com/
 
-- **Backend:** C#, Node.js, .NET Core, ASP.NET
-- **Frontend:** Angular, Flutter, HTML, CSS, JavaScript
-- **Databases:** SQL Server, MongoDB, Firebase
-- **Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions
+## Habilidades
 
-![Built with](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge)
+- **Lenguajes de Programación:** C#, JavaScript, Dart
+- **Frameworks y Librerías:** Flutter, Angular, .NET, Node.js
+- **Herramientas y Tecnologías:** Microsoft Graph, SharePoint, APIs REST, SQL
+- **Metodologías:** Ágil, Desarrollo Basado en Pruebas (TDD)
+
+## Educación
+
+- **Ingeniería de Software** | Institucion Universitaria Pascual Bravo | 2023
+- **Tecnologo en sistemas Mecatronicos** | Institucion Universitaria Pascual Bravo | 2019
+
+## Contacto
+Para consultas o colaboraciones, no dudes en ponerte en contacto conmigo en ottoniek14@gmail.com.
+
